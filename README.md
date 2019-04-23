@@ -1,9 +1,9 @@
-# **_Introduction_ Milestone 2 2**
+# **_Introduction_ Milestone 2**
 --------------------------------------------------------
  * **Name**: Leung Chung Him
  * **SID** : 1155096518
  * **Major**: Computer engineering
- * **Colege**: UC  
+ * **College**: UC  
 
 # **_Programming_**
 ---------------------------------------------------------
@@ -13,6 +13,8 @@
 - [x] JAVASCRIPT
 - [X] PHP
 - [X] HTML / CSS
+- [X] MySQL
+- [ ] Python
 >I am Gifhub junior. I use it in CSCI3100 and this course.   
 
 # **_Course_**
